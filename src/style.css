@@ -45,11 +45,11 @@ gap: 0.5em;
 input {
 width: 200px;
 height: 30px;
-margin: 0.5em;
+margin-bottom: 0.5em;
 }
 
 /* submit button  */
 
 .submit {
-
+width: 50px;
 }
