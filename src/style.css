@@ -5,7 +5,34 @@
 }
 
 body {
-  /* background-color: #9999ff; */
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdMADEH8EM_9pU18-nfrpZoqCP9UZJYjxeg&usqp=CAU);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* h1  */
+
+.title {
+  text-align: center;
+  padding-top: 0.5em;
+  font-size: 2.5em;
+  font-family: 'poppins', sans-serif;
+  color: #d6d6d6;
+  font-weight: bold;
+}
+
+h3 {
+  color: #d6d6d6;
+  font-family: 'poppins', sans-serif;
+  font-size: 1.5em;
+}
+
+/* form h3 */
+
+.add {
+  color: #f9f9f9;
+  font-size: 1.5em;
+  font-family: 'poppins', sans-serif;
 }
 
 /* main container  */
@@ -44,12 +71,54 @@ body {
 
 input {
   width: 200px;
-  height: 30px;
+  height: 25px;
   margin-bottom: 0.5em;
+  border-radius: 5px;
+}
+
+/* name input */
+
+#name {
+  padding: 4px;
+}
+
+/* score input */
+
+#score {
+  padding: 4px;
 }
 
 /* submit button  */
 
 .submit {
-  width: 50px;
+  width: 80px;
+  padding: 0.5em;
+  border-radius: 5px;
+  height: 35px;
+  font-size: 16px;
+}
+
+/* refresh button */
+
+.refresh {
+  width: 80px;
+  padding: 0.5em;
+  border-radius: 5px;
+  height: 35px;
+  font-size: 16px;
+}
+
+/* Ul list */
+
+.scores-list {
+  margin-top: 1em;
+  border: 1px solid #fff;
+}
+
+li {
+  color: #fff;
+  font-size: 16px;
+  font-family: 'lato', sans-serif;
+  padding-bottom: 4px;
+  padding-left: 0.5em;
 }
