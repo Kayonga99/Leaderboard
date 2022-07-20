@@ -23,3 +23,12 @@ body {
     flex-direction: row;
     gap: 4em;
 }
+
+/* form container  */
+
+.form-cont {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+gap: 0.5em;
+}
