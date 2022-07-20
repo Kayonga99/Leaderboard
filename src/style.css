@@ -5,9 +5,7 @@
 }
 
 body {
-  /* background-color: #ccccff; */
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdMADEH8EM_9pU18-nfrpZoqCP9UZJYjxeg&usqp=CAU);
-  /* background-position: cover; */
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -28,6 +26,8 @@ h3 {
   font-family: 'poppins', sans-serif;
   font-size: 1.5em;
 }
+
+/* form h3 */
 
 .add {
   color: #f9f9f9;
@@ -80,3 +80,11 @@ input {
 .submit {
   width: 50px;
 }
+
+/* refresh button */
+
+.refresh {
+  width: 80px;
+  padding: 0.5em;
+}
+
