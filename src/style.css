@@ -5,7 +5,11 @@
 }
 
 body {
-  background-color: #ccccff;
+  /* background-color: #ccccff; */
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdMADEH8EM_9pU18-nfrpZoqCP9UZJYjxeg&usqp=CAU);
+  /* background-position: cover; */
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 /* h1  */
@@ -14,9 +18,8 @@ body {
   text-align: center;
   padding-top: 0.5em;
   font-size: 2.5em;
-  /* font-style: ; */
   font-family: 'poppins', sans-serif;
-  color: #330000;
+  color: #d6d6d6;
   font-weight: bold;
 }
 
