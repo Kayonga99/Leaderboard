@@ -23,4 +23,24 @@ const renderScore = (gameUsers) => {
   refresh.addEventListener('click', () => {
     getScores();
   });
+  const addScoreForm = async () => {
+    const res = fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        user: newScoreler.value,
+        score: scores.value,
+      }),
+    });
+    const data = await (await res).json();
+    newScoreler.value = '';
+    scores.value = '';
+    return data;
+  };
+  gameContainer.addEventListener('submit', (e) => {
+    e.preventDefault();
+    addScoreForm();
+  });
   
