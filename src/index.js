@@ -15,4 +15,9 @@ const renderScore = (gameUsers) => {
       listContainer.innerHTML = list;
     });
   };
+  const getScores = async () => {
+    const res = await fetch(url);
+    const data = await res.json();
+    renderScore(data);
+  };
   
