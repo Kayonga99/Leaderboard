@@ -1,35 +1,23 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard: setup project
+# Leaderboard: hit the API
 
-> This is a simple plain html leaderboard set up project:
+> This is a simple plain html with functionality:
 
 Get started by copying and pasting the following in your terminal: 
-
-- 1 
-```
-git@github.com:Kayonga99/Leaderboard.git
-```
-- 2
-
-```
-cd Leaderboard
-```
-
-- 3
+- 1
 ```
 npm install
 ```
 
-- 4
+- 2
 
  This will generate a dist folder you never edit what is in there.
 ```
 npm run build
 ```
 
-
-- 5
+- 3
 
 ```
 npm start
@@ -39,23 +27,43 @@ The browser will open, if this is not the case please stay calm and simply open 
 http://localhost:8080
 ```
 
+## Built With
 
-- 6
+- HTML
+- HTML Webpack Plugin
+- CSS
+- JavaScript / ES6
+- Webpack
 
- You can start editing the files in the "src" folder
+### Install
 
-## Happy coding! 🌈
+Clone the repository
+git@github.com:Kayonga99/Leaderboard.git
+npm . init -y
+npm install
 
+## Run tests
+
+npx stylelint "\*_/_.{css,scss}"
+npx hint .
+npx eslint .
+
+- Web Browser
+- [Visual Studio code](https://code.visualstudio.com/)
+[Live demo]()
+## Authors
+
+👤 ## Author
+
+👤 **Kayonga Chiteta**
+
+- GitHub: [@Kayonga99](https://github.com/Kayonga99)
+- Twitter: [@KayongaChiteta3](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
+- LinkedIn: [Kkayonga Chiteta](https://www.linkedin.com/in/kayonga-chiteta-776949227)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
