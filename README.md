@@ -34,7 +34,7 @@ npm run build
 ```
 npm start
 ```
-The browser will open and you should see this text : "Hello webpack!", if this is not the case please stay calm and simply open your browser and paste this.
+The browser will open, if this is not the case please stay calm and simply open your browser and paste this.
 ```
 http://localhost:8080
 ```
@@ -46,9 +46,6 @@ http://localhost:8080
 
 ## Happy coding! 🌈
 
-if you are interested in learning more about webpack click the link below
-
-[click here!](https://webpack.js.org/guides/getting-started/)
 
 ## Show your support
 
