@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard: setup project
+# Leaderboard: hit the API
 
 > This is a simple plain html with functionality:
 
