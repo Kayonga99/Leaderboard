@@ -23,6 +23,11 @@ body {
   font-weight: bold;
 }
 
+h3 {
+  color: #d6d6d6;
+
+}
+
 /* main container  */
 
 .main-container {
