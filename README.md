@@ -1,64 +1,69 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# WEBPACK 5 TEMPLATE
+# Leaderboard: final touches
 
-> Everything you need to start using webpack is all setup and ready to use just run the following commands to get started:
+> This is a simple project build with webapck,simple html,css and JavaScript. the app allows a user to add their name and their score.
 
 Get started by copying and pasting the following in your terminal: 
-
-- 1 
-```
-git@github.com:Kayonga99/Webpack.git
-```
-- 2
-
-```
-cd webpack
-```
-
-- 3
+- 1
 ```
 npm install
 ```
 
-- 4
+- 2
 
  This will generate a dist folder you never edit what is in there.
 ```
 npm run build
 ```
 
-
-- 5
+- 3
 
 ```
 npm start
 ```
-The browser will open and you should see this text : "Hello webpack!", if this is not the case please stay calm and simply open your browser and paste this.
+The browser will open, if this is not the case please stay calm and simply open your browser and paste this.
 ```
-http://localhost:3000
+http://localhost:8080
 ```
 
+## Built With
 
-- 6
+- HTML
+- HTML Webpack Plugin
+- CSS
+- JavaScript / ES6
+- Webpack
 
- You can start editing the files in the "src" folder
+### Install
 
-## Happy coding! 🌈
+Clone the repository
+git@github.com:Kayonga99/Leaderboard.git
+npm . init -y
+npm install
 
-if you are interested in learning more about webpack click the link below
+## Run tests
 
-[click here!](https://webpack.js.org/guides/getting-started/)
+npx stylelint "\*_/_.{css,scss}"
+npx hint .
+npx eslint .
+
+- Web Browser
+- [Visual Studio code](https://code.visualstudio.com/)
+[Live demo]()
+## Authors
+
+👤 ## Author
+
+👤 **Kayonga Chiteta**
+
+- GitHub: [@Kayonga99](https://github.com/Kayonga99)
+- Twitter: [@KayongaChiteta3](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
+- LinkedIn: [Kkayonga Chiteta](https://www.linkedin.com/in/kayonga-chiteta-776949227)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
