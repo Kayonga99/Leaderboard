@@ -71,8 +71,22 @@ h3 {
 
 input {
   width: 200px;
-  height: 30px;
+  height: 25px;
   margin-bottom: 0.5em;
+  border-radius: 5px;
+}
+
+/* name input */
+
+#name {
+  padding: 4px;
+}
+
+/* score input */
+
+#score {
+  padding: 4px;
+
 }
 
 /* submit button  */
