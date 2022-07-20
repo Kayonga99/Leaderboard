@@ -8,12 +8,12 @@ Get started by copying and pasting the following in your terminal:
 
 - 1 
 ```
-git@github.com:Kayonga99/Webpack.git
+git@github.com:Kayonga99/Leaderboard.git
 ```
 - 2
 
 ```
-cd webpack
+cd Leaderboard
 ```
 
 - 3
@@ -36,7 +36,7 @@ npm start
 ```
 The browser will open and you should see this text : "Hello webpack!", if this is not the case please stay calm and simply open your browser and paste this.
 ```
-http://localhost:3000
+http://localhost:8080
 ```
 
 
