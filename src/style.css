@@ -5,7 +5,14 @@
 }
 
 body {
-  /* background-color: #9999ff; */
+  background-color: #ccccff;
+}
+
+/* h1  */
+
+.title {
+  text-align: center;
+  
 }
 
 /* main container  */
