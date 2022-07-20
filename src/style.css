@@ -32,3 +32,17 @@ flex-direction: column;
 justify-content: space-between;
 gap: 0.5em;
 }
+
+/* form  */
+
+#form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* name input  */
+
+#name {
+width: 200px;
+height: 40px;
+}
