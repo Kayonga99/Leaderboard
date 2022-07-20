@@ -89,6 +89,7 @@ input {
 
 }
 
+
 /* submit button  */
 
 .submit {
@@ -108,3 +109,18 @@ input {
   font-size: 16px;
 }
 
+
+/* Ul list */
+
+.scores-list {
+  margin-top: 1em;
+  border: 1px solid #fff;
+}
+
+ li {
+  color: #fff;
+  font-size: 16px;
+  font-family: 'lato', sans-serif;
+  padding-bottom: 4px;
+  padding-left: 0.5em;
+}
