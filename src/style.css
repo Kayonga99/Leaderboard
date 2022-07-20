@@ -40,10 +40,16 @@ gap: 0.5em;
     flex-direction: column;
 }
 
-/* name input  */
+/* inputs  */
 
 input {
 width: 200px;
 height: 30px;
 margin: 0.5em;
+}
+
+/* submit button  */
+
+.submit {
+
 }
