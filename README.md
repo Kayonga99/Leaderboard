@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard: hit the API
+# Leaderboard: final touches
 
-> This is a simple plain html with functionality:
+> This is a simple project build with webapck,simple html,css and JavaScript. the app allows a user to add their name and their score.
 
 Get started by copying and pasting the following in your terminal: 
 - 1
