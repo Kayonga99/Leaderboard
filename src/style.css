@@ -86,9 +86,7 @@ input {
 
 #score {
   padding: 4px;
-
 }
-
 
 /* submit button  */
 
@@ -99,6 +97,7 @@ input {
   height: 35px;
   font-size: 16px;
 }
+
 /* refresh button */
 
 .refresh {
@@ -109,7 +108,6 @@ input {
   font-size: 16px;
 }
 
-
 /* Ul list */
 
 .scores-list {
@@ -117,7 +115,7 @@ input {
   border: 1px solid #fff;
 }
 
- li {
+li {
   color: #fff;
   font-size: 16px;
   font-family: 'lato', sans-serif;
