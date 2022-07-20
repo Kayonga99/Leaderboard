@@ -86,5 +86,8 @@ input {
 .refresh {
   width: 80px;
   padding: 0.5em;
+  border-radius: 5px;
+  height: 35px;
+  font-size: 16px;
 }
 
