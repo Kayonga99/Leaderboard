@@ -20,4 +20,7 @@ const renderScore = (gameUsers) => {
     const data = await res.json();
     renderScore(data);
   };
+  refresh.addEventListener('click', () => {
+    getScores();
+  });
   
