@@ -149,7 +149,6 @@ h3 {
 .form-cont {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   gap: 0.5em;
 }
 
