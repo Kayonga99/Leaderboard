@@ -10,6 +10,19 @@ body {
   background-repeat: no-repeat;
 }
 
+.title {
+  text-align: center;
+  padding-top: 0.5em;
+  font-size: 2.5em;
+  font-family: 'poppins', sans-serif;
+  color: #d6d6d6;
+  font-weight: bold;
+}
+
+/* media querries */
+
+@media screen and (min-width: 768px) {
+
 /* h1  */
 
 .title {
@@ -121,4 +134,5 @@ li {
   font-family: 'lato', sans-serif;
   padding-bottom: 4px;
   padding-left: 0.5em;
+}
 }
