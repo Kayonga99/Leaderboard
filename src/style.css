@@ -206,6 +206,8 @@ input {
 .scores-list {
   margin-top: 1em;
   border: 1px solid #fff;
+  width: 300px;
+  margin-left: auto;
 }
 
 li {
