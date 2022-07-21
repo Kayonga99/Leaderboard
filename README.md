@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard: final touches
+# Leaderboard
 
 > This is a simple project build with webapck,simple html,css and JavaScript. the app allows a user to add their name and their score.
 
@@ -50,7 +50,7 @@ npx eslint .
 
 - Web Browser
 - [Visual Studio code](https://code.visualstudio.com/)
-- [Live demo](https://startling-clafoutis-8d8279.netlify.app/)
+- [Live demo](https://silly-torrone-786ae5.netlify.app/)
 ## Authors
 
 👤 ## Author
