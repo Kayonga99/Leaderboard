@@ -79,7 +79,8 @@ h3 {
 
 .submit {
   width: 80px;
-  padding: 0.5em 0.5em 0.5em 4em;
+  padding: 0.5em;
+  margin: 0.5em 0 0 3.3em;
   border-radius: 5px;
   height: 35px;
   font-size: 16px;
