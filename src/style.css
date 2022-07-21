@@ -73,7 +73,6 @@ h3 {
   padding: 4px;
   margin: 0.5em 0 0 4em;
   width: 200px;
-  
 }
 
 /* submit button  */
@@ -88,10 +87,9 @@ h3 {
 }
 
 .scores-list {
-  margin-top: 1em;
   border: 1px solid #fff;
   width: 272px;
-  margin: 0.5em 0 0 3.5em
+  margin: 0.5em 0 0 3.5em;
 }
 
 li {
@@ -105,116 +103,115 @@ li {
 /* media querries */
 
 @media screen and (min-width: 768px) {
+  /* h1  */
 
-/* h1  */
+  .title {
+    text-align: center;
+    padding-top: 0.5em;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
 
-.title {
-  text-align: center;
-  padding-top: 0.5em;
-  font-size: 2.5em;
-  font-weight: bold;
-}
+  h3 {
+    font-size: 1.5em;
+  }
 
-h3 {
-  font-size: 1.5em;
-}
+  /* form h3 */
 
-/* form h3 */
+  .add {
+    color: #f9f9f9;
+    font-size: 1.5em;
+    padding: 0 0 0 2.5em;
+  }
 
-.add {
-  color: #f9f9f9;
-  font-size: 1.5em;
-  padding: 0 0 0 2.5em;
-}
+  /* main container  */
 
-/* main container  */
+  .main-container {
+    width: 100%;
+    display: flex;
+    height: 40em;
+    justify-content: center;
+    margin-top: 4em;
+    flex-direction: row;
+    gap: 10em;
+  }
 
-.main-container {
-  width: 100%;
-  display: flex;
-  height: 40em;
-  justify-content: center;
-  margin-top: 4em;
-  flex-direction: row;
-  gap: 10em;
-}
+  .r-score {
+    display: flex;
+    flex-direction: row;
+    gap: 4em;
+  }
 
-.r-score {
-  display: flex;
-  flex-direction: row;
-  gap: 4em;
-}
+  /* form container  */
 
-/* form container  */
+  .form-cont {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+  }
 
-.form-cont {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5em;
-}
+  /* form  */
 
-/* form  */
+  #form {
+    display: flex;
+    flex-direction: column;
+  }
 
-#form {
-  display: flex;
-  flex-direction: column;
-}
+  /* inputs  */
 
-/* inputs  */
+  input {
+    width: 200px;
+    height: 25px;
+    margin-bottom: 0.5em;
+    border-radius: 17px;
+  }
 
-input {
-  width: 200px;
-  height: 25px;
-  margin-bottom: 0.5em;
-  border-radius: 17px;
-}
+  /* name input */
 
-/* name input */
+  #name {
+    padding: 4px;
+  }
 
-#name {
-  padding: 4px;
-}
+  /* score input */
 
-/* score input */
+  #score {
+    padding: 4px;
+  }
 
-#score {
-  padding: 4px;
-}
+  /* submit button  */
 
-/* submit button  */
+  .submit {
+    width: 80px;
+    padding: 0.5em;
+    border-radius: 5px;
+    height: 35px;
+    font-size: 16px;
+  }
 
-.submit {
-  width: 80px;
-  padding: 0.5em;
-  border-radius: 5px;
-  height: 35px;
-  font-size: 16px;
-}
+  /* refresh button */
 
-/* refresh button */
+  .refresh {
+    width: 80px;
+    padding: 0.5em;
+    border-radius: 5px;
+    height: 35px;
+    font-size: 16px;
+  }
 
-.refresh {
-  width: 80px;
-  padding: 0.5em;
-  border-radius: 5px;
-  height: 35px;
-  font-size: 16px;
-}
+  /* Ul list */
 
-/* Ul list */
+  .scores-list {
+    margin-top: 1em;
+    border: 1px solid #fff;
+    width: 300px;
+    margin-left: auto;
+  }
 
-.scores-list {
-  margin-top: 1em;
-  border: 1px solid #fff;
-  width: 300px;
-  margin-left: auto;
-}
-
-li {
-  color: #fff;
-  font-size: 16px;
-  font-family: 'lato', sans-serif;
-  padding-bottom: 4px;
-  padding-left: 0.5em;
-}
+  li {
+    color: #fff;
+    font-size: 16px;
+    font-family: 'lato', sans-serif;
+    padding-bottom: 4px;
+    padding-left: 0.5em;
+  }
 }
