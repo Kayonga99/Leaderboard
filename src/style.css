@@ -75,6 +75,16 @@ h3 {
   width: 200px;
 }
 
+/* submit button  */
+
+.submit {
+  width: 80px;
+  padding: 0.5em 0.5em 0.5em 4em;
+  border-radius: 5px;
+  height: 35px;
+  font-size: 16px;
+}
+
 /* media querries */
 
 @media screen and (min-width: 768px) {
