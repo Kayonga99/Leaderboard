@@ -71,6 +71,8 @@ h3 {
 
 #score {
   padding: 4px;
+  margin-left: 4em;
+  width: 200px;
 }
 
 /* media querries */
