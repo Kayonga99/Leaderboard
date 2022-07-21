@@ -52,6 +52,13 @@ h3 {
   padding-top: 1em;
 }
 
+/* form  */
+
+#form {
+  display: flex;
+  flex-direction: column;
+}
+
 /* media querries */
 
 @media screen and (min-width: 768px) {
