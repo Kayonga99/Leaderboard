@@ -31,7 +31,7 @@ body {
 h3 {
   color: #d6d6d6;
   font-family: 'poppins', sans-serif;
-  font-size: 1em;
+  font-size: 1.4em;
 }
 
 .r-score {
@@ -46,7 +46,7 @@ h3 {
 
 .add {
   color: #f9f9f9;
-  font-size: 1.5em;
+  font-size: 1.4em;
   font-family: 'poppins', sans-serif;
   padding-left: 4em;
   padding-top: 1em;
