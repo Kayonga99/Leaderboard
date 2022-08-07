@@ -50,7 +50,7 @@ npx eslint .
 
 - Web Browser
 - [Visual Studio code](https://code.visualstudio.com/)
-- [Live demo](https://silly-torrone-786ae5.netlify.app/)
+- [Live demo](https://shiny-travesseiro-4d513a.netlify.app/)
 ## Authors
 
 👤 ## Author
